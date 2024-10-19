@@ -1,0 +1,14 @@
+
+.goals{
+    margin: 100px 0;
+}
+
+.goals .goals-content{
+    margin-top: 40px;
+}
+
+.goals .goals-content ul li{
+    margin: 15px;
+    line-height: 1.5;
+    font-size: 22px;
+}

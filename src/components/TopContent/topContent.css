@@ -1,0 +1,29 @@
+.topContent{
+    background-image: url('../../images/gold.jpg');
+    height: 700px;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.topContent .overlay{
+    background-color: rgba(0, 0, 0, 0.375);
+    position: absolute;
+    height: 700px;
+    width: 100%;
+}
+
+
+.topContent h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 3px -1px 13px rgb(0, 0, 0);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}

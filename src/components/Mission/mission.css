@@ -1,0 +1,14 @@
+
+.mission{
+    margin: 100px 0;
+}
+
+.mission .mission-content{
+    margin-top: 40px;
+}
+
+.mission .mission-content ul li{
+    margin: 15px;
+    line-height: 1.5;
+    font-size: 22px;
+}

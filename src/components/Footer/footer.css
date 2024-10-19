@@ -1,0 +1,33 @@
+.footer{
+    max-height: 600px;
+    width: 100%;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer .logo{
+    width: 200px;
+    height: 100px;
+}
+
+.footer h4{
+    color: gold;
+    font-weight: 700;
+}
+
+.scroll-to-top{
+    background-color: gold !important;
+    right: 20px !important;
+    bottom: 20px !important;
+    position: fixed;
+    z-index: 2;
+    cursor: pointer;
+    border-radius: 7px;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 9px 25px 0 rgba(132, 128, 177, 0.28);
+    border: none;
+}
+
